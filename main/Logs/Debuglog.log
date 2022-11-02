@@ -1,0 +1,9 @@
+
+2022-10-19 20:55:36,730 - INFO <PID 15256:MainProcess> __main__.<module>():
+
+Start logger
+Default Encoding =             ascii
+Кодировка системы Win32/rus =  cp1251
+Кодировка Stdout Win32/rus =   cp866
+Кодировка системы Linux =      cp1251
+Кодировка Stdout Linux =       cp866

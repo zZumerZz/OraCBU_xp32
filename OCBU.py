@@ -21,7 +21,7 @@ import psutil
 from cryptography.fernet import Fernet
 # noinspection PyUnresolvedReferences
 import subprocessww
-# import Colorer
+
 
 # <editor-fold desc="Constant">
 time_start_script = datetime.datetime.now()
